@@ -1,0 +1,13 @@
+.oldpic {
+    height: 240px;
+    width: 320px;
+}
+
+.centered {
+    color: white;
+    font-size: 32px;
+    font: 35px/45px cursive;
+    /* position: absolute; */
+    top: 50%;
+    left: 50%;
+}
